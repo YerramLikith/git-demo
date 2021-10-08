@@ -1,2 +1,2 @@
-# git-demo
-nothing just checking this repostary works
+# git
+i got you
